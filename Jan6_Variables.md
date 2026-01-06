@@ -56,6 +56,6 @@ x, y, z = "Orange", "Banana", "Cherry"
 ### 💡 Tip for Data Analysts
 As a Data Analyst, you will use variables to store **DataFrames** (tables of data). Instead of typing a whole Excel file path every time, you'll store it in a variable like `df` or `sales_data`.
 
----
 **Next Topic (Jan 7):** Data Types (Integers, Strings, Floats, Booleans)
+
 
