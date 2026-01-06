@@ -24,8 +24,6 @@ By completing this repository, I aim to:
 All lesson files are located in the root directory for easy access.
 
 ```
-Python-for-Data-Analysis
-│
 ├── Jan06_Variables.py
 ├── ...
 └── README.md
@@ -115,5 +113,6 @@ Python-for-Data-Analysis
 
 **Mohamed Dahir Osman**
 Aspiring Data Analyst
+
 
 
