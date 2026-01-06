@@ -112,7 +112,3 @@ All lesson files are located in the root directory for easy access.
 ## ✍️ Author
 
 **Mohamed Dahir Osman**
-Aspiring Data Analyst
-
-
-
