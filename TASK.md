@@ -1,7 +1,7 @@
 # 📊 Python for Data Analysis - Daily Progress Tracker
 
 ## 🟦 Week 1 — Python Foundations
-- [ ] 6 Jan: Variables
+- [x] 6 Jan: Variables
 - [ ] 7 Jan: Data Types
 - [ ] 8 Jan: Type Conversion & Basic Operations
 - [ ] 9 Jan: Input / Output
@@ -55,3 +55,4 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
