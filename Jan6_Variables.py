@@ -1,8 +1,4 @@
 # Basics of Variables
-
-# What is a Variable?
-# A variable is a container for storing data values.
-
 # 1. Variable Assignment
 name = "Mohamed"
 age = 25
@@ -42,3 +38,4 @@ population = 2500000
 
 # 3. Print a sentence using these variables
 print(f"The population of {city} is {population}.")
+
