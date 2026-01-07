@@ -2,7 +2,7 @@
 
 ## 🟦 Week 1 — Python Foundations
 - [x] 6 Jan: Variables
-- [ ] 7 Jan: Data Types
+- [x] 7 Jan: Data Types
 - [ ] 8 Jan: Type Conversion & Basic Operations
 - [ ] 9 Jan: Input / Output
 - [ ] 10 Jan: Practice & Revision
@@ -55,4 +55,5 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
