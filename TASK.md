@@ -3,9 +3,9 @@
 ## 🟦 Week 1 — Python Foundations
 - [x] 6 Jan: Variables
 - [x] 7 Jan: Data Types
-- [ ] 8 Jan: Type Conversion & Basic Operations
-- [ ] 9 Jan: Input / Output
-- [ ] 10 Jan: Practice & Revision
+- [x] 8 Jan: Type Conversion & Basic Operations
+- [x] 9 Jan: Input / Output
+- [] 10 Jan: Practice & Revision
 
 ## 🟦 Week 2 — Control Flow
 - [ ] 11 Jan: if / else
@@ -55,5 +55,6 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
