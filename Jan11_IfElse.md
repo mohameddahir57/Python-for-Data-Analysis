@@ -4,8 +4,6 @@
 ### 1. Introduction
 **Control Flow** refers to the order in which individual statements, instructions, or function calls are executed or evaluated. In Python, the `if`, `elif`, and `else` statements allow the program to make decisions and execute specific blocks of code based on whether a condition is **True** or **False**.
 
----
-
 ### 2. Syntax & Definitions
 
 #### A. The `if` Statement
@@ -38,8 +36,6 @@ else:
     # Block if none of the above are True
 ```
 
----
-
 ### 3. Key Concepts
 
 #### 🔹 Indentation
@@ -60,8 +56,6 @@ if x > 10:
 #### 🔹 Shorthand If (Ternary Operator)
 A way to write simple if-else logic in a single line.
 `result = value_if_true if condition else value_if_false`
-
----
 
 ### 4. Code Examples
 
@@ -87,8 +81,6 @@ else:
     print("Grade: F")
 ```
 
----
-
 ### 5. Summary Table
 
 | Statement | Purpose | When it runs |
@@ -97,8 +89,7 @@ else:
 | `elif` | Secondary checks | If previous conditions were `False` and this one is `True`. |
 | `else` | Fallback | If ALL previous conditions were `False`. |
 
----
-
 ### 6. Practice Exercises
 1. **Even or Odd**: Write a script that checks if a number is even or odd using the `%` operator.
 2. **Access Control**: Create a variable `is_logged_in` and `user_role`. Only print "Welcome Admin" if both are True (`is_logged_in == True` and `user_role == "Admin"`).
+
