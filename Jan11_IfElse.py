@@ -10,19 +10,19 @@ In Python, we use 'if', 'elif' (else if), and 'else' to make decisions.
 
 age = 20
 
-print("--- 1. Simple IF ---")
-if age >= 18:
-    print("You are an adult.")
-    print("You can vote.")
+print("--- 1. Simple IF ---")  # Indentation is important!
+if age >= 18:   # Every if, elif, and else line MUST end with a colon.
+    print("You are an adult.")  
+    print("You can vote.")  
 
 # 2. 'if - else' statement
 
-print("\n--- 2. IF-ELSE ---")
+print("\n--- 2. IF-ELSE ---")  # Indentation is important!
 score = 45
 
-if score >= 50:
+if score >= 50:   # Every if, elif, and else line MUST end with a colon.
     print("Pass")
-else:
+else:   
     print("Fail")
 
 # 3. 'if - elif - else' (Multiple conditions)
@@ -30,19 +30,19 @@ else:
 print("\n--- 3. IF-ELIF-ELSE ---")
 temperature = 25
 
-if temperature > 30:
+if temperature > 30:   # Every if, elif, and else line MUST end with a colon.
     print("It's hot outside.")
-elif temperature >= 20:
+elif temperature >= 20:   
     print("It's a pleasant day.")
-elif temperature >= 10:
+elif temperature >= 10:   
     print("It's a bit chilly.")
-else:
+else:   
     print("It's cold.")
 
 # 4. Nested 'if' statements
 
 print("\n--- 4. NESTED IF ---")
-user_has_ticket = True
+user_has_ticket = True 
 user_has_id = False
 
 if user_has_ticket:
