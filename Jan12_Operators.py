@@ -6,9 +6,7 @@ In this lesson, we learn how to compare values and combine multiple conditions.
 These are the building blocks of any decision-making logic in Python.
 """
 
-# ---------------------------------------------------------
 # 1. Comparison Operators
-# ---------------------------------------------------------
 # Used to compare two values. They return a Boolean (True or False).
 
 a = 10
@@ -23,9 +21,7 @@ print(f"a < b : {a < b}")    # Less than
 print(f"a >= 10: {a >= 10}") # Greater than or equal to
 print(f"b <= 5 : {b <= 5}")  # Less than or equal to
 
-# ---------------------------------------------------------
 # 2. Logical Operators
-# ---------------------------------------------------------
 # Used to combine multiple conditions.
 
 x = 7
@@ -42,9 +38,7 @@ print(f"(x > 10 or y > 10)  : {x > 10 or y > 10}")
 print(f"not(x == 7)         : {not(x == 7)}")
 
 
-# ---------------------------------------------------------
 # 3. Practical Example: Admission Criteria
-# ---------------------------------------------------------
 print("\n--- 3. PRACTICAL EXAMPLE ---")
 age = 22
 has_license = True
@@ -54,9 +48,7 @@ if age >= 18 and has_license:
 else:
     print("You cannot rent a car.")
 
-# ---------------------------------------------------------
 # 📝 PRACTICE EXERCISES
-# ---------------------------------------------------------
 
 """
 EXERCISE 1: Range Checker
@@ -77,3 +69,4 @@ if not is_weekend:
     print("Go to work")
 else:
     print("Enjoy the weekend!")
+
