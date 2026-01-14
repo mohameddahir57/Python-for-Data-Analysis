@@ -9,10 +9,10 @@
 
 ## 🟦 Week 2 — Control Flow
 - [x] 11 Jan: if / else
-- [ ] 12 Jan: Comparison & Logical Operators
-- [ ] 13 Jan: for Loops
-- [ ] 14 Jan: while Loops
-- [ ] 15 Jan: Functions
+- [x] 12 Jan: Comparison & Logical Operators
+- [x] 13 Jan: for Loops
+- [x] 14 Jan: while Loops
+- [] 15 Jan: Functions
 
 ## 🟦 Week 3 — Data Structures
 - [ ] 16 Jan: Lists
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
