@@ -6,8 +6,6 @@ A **Function** is a block of code which only runs when it is called. You can pas
 
 Functions are the key to **DRY (Don't Repeat Yourself)** programming.
 
----
-
 ### 2. Syntax
 ```python
 def function_name(parameters):
@@ -22,8 +20,6 @@ def function_name(parameters):
 - `parameters`: Variables that act as placeholders for the data you pass in.
 - `return`: Sends a value back to the caller.
 
----
-
 ### 3. Key Concepts
 
 #### 🔹 Docstrings
@@ -37,24 +33,19 @@ A string literal that occurs as the first statement in a function. It is used to
 - **Local Scope**: Variables created inside a function only exist there.
 - **Global Scope**: Variables created in the main body of the script.
 
----
-
 ### 4. Why use Functions in Data Analysis?
 As a Data Analyst, you will use functions to:
 - **Reuse logic**: Instead of writing the same cleaning steps for 10 files, create a `clean_data()` function.
 - **Simplify code**: Break a complex analysis into smaller, manageable parts.
 - **Improve readability**: A function name like `filter_outliers()` tells exactly what the code does.
 
----
-
 ### 5. Lambda Functions (Shortcuts)
 For very simple, one-line functions, Python uses `lambda`:
 `multiply = lambda x, y: x * y`
 *Note: We will dive deeper into Lambda later in the journey.*
 
----
-
 ### 6. Practice Tips
 - Use descriptive names for your functions.
 - Keep functions small; each should do **one thing well**.
 - Always include a docstring so others (or your future self) understand your code.
+
