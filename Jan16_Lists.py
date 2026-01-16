@@ -44,9 +44,7 @@ squares = [x**2 for x in numbers]
 print(f"Original: {numbers}")
 print(f"Squares: {squares}")
 
-# ---------------------------------------------------------
 # 📝 PRACTICE EXERCISES
-# ---------------------------------------------------------
 
 # Exercise 1: Create a list of 3 countries, add one more, then print the list.
 print("\n--- Exercise 1 ---")
@@ -61,4 +59,5 @@ print("\n--- Exercise 2 ---")
 # Exercise 3: Use a list comprehension to create a list of even numbers from 0 to 20.
 print("\n--- Exercise 3 ---")
 # Write your code here:
+
 
