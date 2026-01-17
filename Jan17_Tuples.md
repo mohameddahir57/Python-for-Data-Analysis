@@ -14,8 +14,6 @@ Tuples are written with round brackets `()`.
 my_tuple = ("apple", "banana", "cherry")
 ```
 
----
-
 ## 🔹 Creating Tuples
 
 ### 1. Standard Tuple
@@ -35,8 +33,6 @@ not_tuple = ("apple")  # String
 ```python
 thistuple = tuple(("apple", "banana", "cherry"))
 ```
-
----
 
 ## 🔹 Accessing Items
 Since tuples are ordered, you can access items by referring to the index number inside square brackets `[]`.
@@ -60,8 +56,6 @@ You can specify a range of indexes by specifying where to start and where to end
 print(thistuple[1:3]) # Returns items from index 1 to 2 (3 is not included)
 ```
 
----
-
 ## 🔹 Updating Tuples
 Tuples are **immutable**, meaning you cannot change, add, or remove items once the tuple is created.
 
@@ -75,8 +69,6 @@ x = tuple(y)
 
 print(x) # ("apple", "kiwi", "cherry")
 ```
-
----
 
 ## 🔹 Unpacking Tuples
 When we create a tuple, we normally assign values to it. This is called **packing**.
@@ -105,8 +97,6 @@ print(yellow) # banana
 print(red) # ['cherry', 'strawberry', 'raspberry']
 ```
 
----
-
 ## 🔹 Join Tuples
 To join two or more tuples you can use the `+` operator.
 
@@ -117,8 +107,6 @@ tuple2 = (1, 2, 3)
 tuple3 = tuple1 + tuple2
 print(tuple3)
 ```
-
----
 
 ## 🔹 Tuple Methods
 Python has two built-in methods that you can use on tuples:
@@ -138,8 +126,6 @@ y = thistuple.index(8)
 print(y) # 3 (first occurrence)
 ```
 
----
-
 ## 🔹 List vs Tuple (When to use which?)
 
 | Feature | List `[]` | Tuple `()` |
@@ -148,3 +134,4 @@ print(y) # 3 (first occurrence)
 | **Speed** | Slower | Faster |
 | **Memory** | Consumes more memory | Consumes less memory |
 | **Use Case** | When you have a collection of data that needs to change (e.g., user input, shopping cart) | When you have a collection of constants that should not change (e.g., coordinates, configurations, fixed choices) |
+
