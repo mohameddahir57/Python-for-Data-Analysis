@@ -18,7 +18,7 @@
 - [x] 16 Jan: Lists
 - [x] 17 Jan: Tuples
 - [x] 18 Jan: Sets
-- [ ] 19 Jan: Dictionaries
+- [x] 19 Jan: Dictionaries
 - [ ] 20 Jan: Practice with Data
 
 ## 🟦 Week 4 — NumPy for Data Analysis
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
