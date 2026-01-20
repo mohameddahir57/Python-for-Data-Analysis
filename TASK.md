@@ -17,7 +17,7 @@
 ## 🟦 Week 3 — Data Structures
 - [x] 16 Jan: Lists
 - [x] 17 Jan: Tuples
-- [ ] 18 Jan: Sets
+- [x] 18 Jan: Sets
 - [ ] 19 Jan: Dictionaries
 - [ ] 20 Jan: Practice with Data
 
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
