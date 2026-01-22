@@ -13,7 +13,6 @@ Slicing allows you to access a subarray.
 ## 3. Boolean Indexing
 Boolean indexing allows you to select elements based on a condition (e.g., all elements greater than 5).
 
----
-
 ## 📝 Practice
 Open `Jan22_IndexingSlicing.ipynb` to see detailed examples and practice!
+
