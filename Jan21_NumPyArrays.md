@@ -41,7 +41,6 @@ Once you have an array, you can inspect its properties using these attributes:
 -   **.size**: Total number of elements in the array.
 -   **.dtype**: Data type of the elements in the array (e.g., `int32`, `float64`).
 
----
-
 ## 📝 Practice
 Open `Jan21_NumPyArrays.ipynb` and try creating different types of arrays and inspecting their attributes!
+
