@@ -24,7 +24,7 @@
 ## 🟦 Week 4 — NumPy for Data Analysis
 - [x] 21 Jan: NumPy Arrays
 - [x] 22 Jan: Indexing & Slicing
-- [ ] 23 Jan: Mathematical Operations
+- [x] 23 Jan: Mathematical Operations
 - [ ] 24 Jan: Statistics with NumPy
 - [ ] 25 Jan: Practice
 
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
