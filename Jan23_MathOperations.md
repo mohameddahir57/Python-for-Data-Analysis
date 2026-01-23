@@ -15,7 +15,6 @@ NumPy provides optimized functions for mathematical operations.
 Functions to summarize data.
 -   `np.sum()`, `np.mean()`, `np.min()`, `np.max()`
 
----
-
 ## 📝 Practice
 Open `Jan23_MathOperations.ipynb` to see detailed examples and practice!
+
