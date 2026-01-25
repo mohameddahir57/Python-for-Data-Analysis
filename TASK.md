@@ -26,7 +26,7 @@
 - [x] 22 Jan: Indexing & Slicing
 - [x] 23 Jan: Mathematical Operations
 - [x] 24 Jan: Statistics with NumPy
-- [ ] 25 Jan: Practice
+- [x] 25 Jan: Practice
 
 ## 🟦 Week 5 — Pandas Core
 - [ ] 26 Jan: Pandas Series & DataFrames
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
