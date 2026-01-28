@@ -31,7 +31,7 @@
 ## 🟦 Week 5 — Pandas Core
 - [x] 26 Jan: Pandas Series & DataFrames
 - [x] 27 Jan: Reading CSV & Excel
-- [ ] 28 Jan: Data Inspection
+- [x] 28 Jan: Data Inspection
 - [ ] 29 Jan: Filtering & Sorting
 - [ ] 30 Jan: Practice
 
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
