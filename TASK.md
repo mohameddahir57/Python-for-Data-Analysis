@@ -32,7 +32,7 @@
 - [x] 26 Jan: Pandas Series & DataFrames
 - [x] 27 Jan: Reading CSV & Excel
 - [x] 28 Jan: Data Inspection
-- [ ] 29 Jan: Filtering & Sorting
+- [x] 29 Jan: Filtering & Sorting
 - [ ] 30 Jan: Practice
 
 ## 🟦 Week 6 — Data Cleaning & Aggregation
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
