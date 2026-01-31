@@ -33,7 +33,7 @@
 - [x] 27 Jan: Reading CSV & Excel
 - [x] 28 Jan: Data Inspection
 - [x] 29 Jan: Filtering & Sorting
-- [ ] 30 Jan: Practice
+- [x] 30 Jan: Practice
 
 ## 🟦 Week 6 — Data Cleaning & Aggregation
 - [ ] 31 Jan: Missing Values
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
