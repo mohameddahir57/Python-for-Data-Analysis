@@ -36,7 +36,7 @@
 - [x] 30 Jan: Practice
 
 ## 🟦 Week 6 — Data Cleaning & Aggregation
-- [ ] 31 Jan: Missing Values
+- [x] 31 Jan: Missing Values
 - [ ] 1 Feb: Duplicates
 - [ ] 2 Feb: Data Type Fixing
 - [ ] 3 Feb: GroupBy & Aggregation
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
