@@ -40,7 +40,7 @@
 - [x] 1 Feb: Duplicates
 - [x] 2 Feb: Data Type Fixing
 - [x] 3 Feb: GroupBy & Aggregation
-- [ ] 4 Feb: Practice
+- [x] 4 Feb: Practice
 
 ## 🟦 Week 7 — Data Visualization
 - [ ] 5 Feb: Matplotlib Basics
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
