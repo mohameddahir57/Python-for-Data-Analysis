@@ -51,10 +51,11 @@
 
 ## 🟦 Week 8 — Mini Projects
 - [x] 10 Feb: Sales Analysis Project
-- [ ] 11 Feb: Data Cleaning Project
+- [x] 11 Feb: Data Cleaning Project
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
