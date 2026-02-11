@@ -47,7 +47,7 @@
 - [x] 6 Feb: Line & Bar Charts
 - [x] 7 Feb: Seaborn Basics
 - [x] 8 Feb: Choosing the Right Chart
-- [ ] 9 Feb: Practice
+- [x] 9 Feb: Practice
 
 ## 🟦 Week 8 — Mini Projects
 - [ ] 10 Feb: Sales Analysis Project
@@ -55,6 +55,7 @@
 - [ ] 12 Feb: Exploratory Data Analysis (EDA)
 - [ ] 13 Feb: Project Improvements
 - [ ] 14 Feb: Final Review
+
 
 
 
