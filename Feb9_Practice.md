@@ -1,4 +1,4 @@
-# 🏆 Feb 09: Week 7 Final Practice Challenge
+#  Feb 09: Week 7 Final Practice Challenge
 
 Congratulations on reaching the final day of Week 7! This practice session combines everything you've learned about data visualization.
 
@@ -102,19 +102,19 @@ Your visualizations will be evaluated on:
 - **Composition** → Pie or stacked bar
 - **Relationships** → Scatter plot
 
-### 🎨 Styling
+###  Styling
 - Use consistent color palette
 - Add grid for easier reading
 - Format axes (currency, percentages)
 - Use appropriate figure sizes
 
-### 📝 Labeling
+###  Labeling
 - Clear, descriptive titles
 - Axis labels with units
 - Legends when needed
 - Value labels on bars when helpful
 
-### 🎯 Best Practices
+###  Best Practices
 - Sort bar charts by value
 - Start y-axis at zero (usually)
 - Highlight key insights with color
@@ -125,14 +125,14 @@ Your visualizations will be evaluated on:
 
 If you finish early, try these advanced tasks:
 
-### 🌟 Advanced Analysis
+###  Advanced Analysis
 1. Create a heatmap showing sales by region and category
 2. Build a pair plot exploring multiple variable relationships
 3. Add trend lines and annotations to highlight key events
 4. Create animated visualizations showing trends over time
 5. Design an interactive dashboard concept
 
-### 🌟 Statistical Insights
+###  Statistical Insights
 1. Calculate and visualize correlation coefficients
 2. Add confidence intervals to bar charts
 3. Show percentile ranges in distributions
@@ -180,4 +180,5 @@ Open `Feb9_Practice.ipynb` and start your analysis. Remember:
 - Extract meaningful insights
 - Tell a compelling data story
 
-Good luck! 🚀
+Good luck! 
+
