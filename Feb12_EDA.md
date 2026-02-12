@@ -1,14 +1,14 @@
-# 🔍 Feb 12: Exploratory Data Analysis (EDA) Project
+#  Feb 12: Exploratory Data Analysis (EDA) Project
 
 Welcome to Day 3 of Week 8! Today you'll dive deep into Exploratory Data Analysis (EDA), the process of performing initial investigations on data to discover patterns, spot anomalies, and check assumptions.
 
-## 🎯 Project Overview
+##  Project Overview
 
 **Scenario**: You are a Data Analyst for "GlobalCorp," a multinational company. The HR department wants to understand the factors affecting employee satisfaction and turnover. 
 
 **Your Mission**: Perform a comprehensive EDA on the employee dataset to uncover hidden patterns and provide meaningful insights to the HR team.
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The employee dataset contains:
 
@@ -23,7 +23,7 @@ The employee dataset contains:
 - **NumberProjects**: Number of projects completed in the last year.
 - **LeftCompany**: Whether the employee left the company (Yes/No).
 
-## 🎯 EDA Objectives
+##  EDA Objectives
 
 ### 1. Univariate Analysis (Looking at one variable)
 - What is the age distribution of employees?
@@ -43,7 +43,7 @@ The employee dataset contains:
 - Which factors are most strongly correlated with an employee leaving the company?
 - Is there a correlation between number of projects and satisfaction?
 
-## 📊 Required Visualizations
+##  Required Visualizations
 
 - **Histogram**: Age and Salary distributions.
 - **Box Plots**: Salary by Department; Satisfaction by Turnover status.
@@ -52,7 +52,7 @@ The employee dataset contains:
 - **Violin Plots**: Salary distribution by Gender across Departments.
 - **Pair Plot**: Overview of relationships between main numeric variables.
 
-## 🔍 Step-by-Step Guide
+##  Step-by-Step Guide
 
 ### Step 1: Initial Data Inspection
 - Load the data and check for missing values or duplicates.
@@ -74,7 +74,7 @@ The employee dataset contains:
 - Summarize the "Profile" of an employee likely to leave.
 - Identify the highest and lowest performing departments in terms of satisfaction.
 
-## ✅ Deliverables
+##  Deliverables
 
 1. **Jupyter Notebook (`Feb12_EDA.ipynb`)**
    - Professional visualizations.
@@ -85,3 +85,4 @@ The employee dataset contains:
    - Actionable advice for the HR team.
 
 Ready? Open `Feb12_EDA.ipynb` and start your investigation! 🕵️‍♂️
+
