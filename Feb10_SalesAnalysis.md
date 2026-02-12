@@ -1,14 +1,14 @@
-# 📊 Feb 10: Sales Analysis Project
+#  Feb 10: Sales Analysis Project
 
 Welcome to your first mini project! You'll perform a complete sales analysis from start to finish, applying everything you've learned so far.
 
-## 🎯 Project Overview
+##  Project Overview
 
 **Scenario**: You're a data analyst at "TechMart," a retail electronics company. The management team needs insights into sales performance to make strategic decisions for the upcoming quarter.
 
 **Your Mission**: Analyze 12 months of sales data to identify trends, top-performing products, regional patterns, and provide actionable recommendations.
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The dataset contains retail sales transactions with the following columns:
 
@@ -23,7 +23,7 @@ The dataset contains retail sales transactions with the following columns:
 - **CustomerType**: New or Returning
 - **PaymentMethod**: Credit Card, Debit Card, PayPal, Cash
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 ### 1. Sales Performance Analysis
 - What is the overall sales trend?
@@ -50,7 +50,7 @@ The dataset contains retail sales transactions with the following columns:
 - Where should marketing focus?
 - Which products need promotion?
 
-## 📊 Required Visualizations
+##  Required Visualizations
 
 Create at least **8 visualizations**:
 
@@ -63,7 +63,7 @@ Create at least **8 visualizations**:
 7. **Box Plot**: Sales distribution by region
 8. **Dashboard**: 4-6 key metrics in one figure
 
-## 🔍 Analysis Steps
+##  Analysis Steps
 
 ### Step 1: Data Loading & Exploration (15 min)
 - Load the dataset
@@ -113,7 +113,7 @@ Create at least **8 visualizations**:
 - Identify opportunities
 - Suggest next steps
 
-## ✅ Deliverables
+##  Deliverables
 
 Your completed project should include:
 
@@ -140,7 +140,7 @@ Your completed project should include:
    - Supported by data
    - Realistic and specific
 
-## 🎨 Styling Guidelines
+##  Styling Guidelines
 
 ### Color Palette
 Use professional colors:
@@ -161,7 +161,7 @@ Use professional colors:
 - Tick labels: 10pt
 - Legends: 10pt
 
-## 💡 Tips for Success
+##  Tips for Success
 
 ### Data Analysis
 ✅ Start with high-level overview, then drill down  
@@ -184,7 +184,7 @@ Use professional colors:
 ✅ Highlight both positives and concerns  
 ✅ Think like a business stakeholder  
 
-## 🌟 Bonus Challenges
+##  Bonus Challenges
 
 If you finish early, try these:
 
@@ -203,7 +203,7 @@ Your project will be evaluated on:
 - **Visualization Quality** (25%): Professional, clear, appropriate
 - **Insights** (25%): Meaningful, actionable, data-driven
 
-## 🚀 Getting Started
+##  Getting Started
 
 Open `Feb10_SalesAnalysis.ipynb` and begin your analysis!
 
@@ -213,4 +213,5 @@ Remember:
 - Tell a compelling story with data
 - Make your visualizations count
 
-Good luck! 📈
+Good luck! 
+
