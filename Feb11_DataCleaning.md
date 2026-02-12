@@ -1,14 +1,14 @@
-# 🧹 Feb 11: Data Cleaning Project
+#  Feb 11: Data Cleaning Project
 
 Welcome to Day 2 of Week 8! Today you'll tackle one of the most important skills in data analysis: **data cleaning**.
 
-## 🎯 Project Overview
+##  Project Overview
 
 **Scenario**: You've received a customer database from a legacy system. The data is messy, incomplete, and inconsistent. Before any analysis can be done, you need to clean and standardize it.
 
 **Your Mission**: Transform dirty, unreliable data into a clean, analysis-ready dataset.
 
-## 📁 Dataset Description
+##  Dataset Description
 
 The messy customer dataset contains:
 
@@ -23,7 +23,7 @@ The messy customer dataset contains:
 - **TotalSpent**: Total purchase amount (some negative values)
 - **Status**: Account status (Active/Inactive, inconsistent)
 
-## 🎯 Data Quality Issues
+##  Data Quality Issues
 
 You'll encounter:
 
@@ -35,7 +35,7 @@ You'll encounter:
 6. **Outliers**: Extreme values that need investigation
 7. **Inconsistent Categories**: Different spellings of same values
 
-## 📊 Cleaning Tasks
+##  Cleaning Tasks
 
 ### Task 1: Initial Assessment (15 min)
 - Load and inspect the data
@@ -88,7 +88,7 @@ You'll encounter:
 - Document all changes made
 - Export to CSV
 
-## ✅ Deliverables
+##  Deliverables
 
 Your completed project should include:
 
@@ -110,7 +110,7 @@ Your completed project should include:
    - Before/after comparisons
    - Validation results
 
-## 🔍 Data Cleaning Principles
+##  Data Cleaning Principles
 
 ### Missing Values
 - **Drop** if > 50% missing
@@ -135,7 +135,7 @@ Your completed project should include:
 - **Document** transformation rules
 - **Validate** results
 
-## 💡 Tips for Success
+##  Tips for Success
 
 ### Investigation
 ✅ Always investigate before deleting  
@@ -158,7 +158,7 @@ Your completed project should include:
 ✅ Compare before/after statistics  
 ✅ Test with sample queries  
 
-## 📈 Success Metrics
+##  Success Metrics
 
 Your clean dataset should have:
 
@@ -169,7 +169,7 @@ Your clean dataset should have:
 - **0 invalid values** (negative ages, etc.)
 - **Documented outlier treatment**
 
-## 🌟 Bonus Challenges
+##  Bonus Challenges
 
 If you finish early:
 
@@ -179,7 +179,7 @@ If you finish early:
 4. **Automated Pipeline**: Create reusable cleaning functions
 5. **Quality Scoring**: Assign quality scores to each record
 
-## 🚀 Getting Started
+##  Getting Started
 
 Open `Feb11_DataCleaning.ipynb` and start cleaning!
 
@@ -190,3 +190,4 @@ Remember:
 - Validate your results
 
 Good luck! 🧹✨
+
