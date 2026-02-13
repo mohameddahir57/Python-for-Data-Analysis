@@ -1,8 +1,8 @@
-# 🚀 Feb 13: Project Improvements
+#  Feb 13: Project Improvements
 
 Today is about taking your analysis from "Good" to "Great." Refactoring code, enhancing visualizations, and adding advanced features are key skills for professional data analysts.
 
-## 🎯 Project Overview
+##  Project Overview
 
 **Objective**: Re-visit one of your previous projects (Sales Analysis or EDA) and apply advanced techniques to improve its quality, readability, and depth.
 
@@ -57,3 +57,4 @@ Complete a professional "ReadMe" style header for the project, explaining the me
 A professional dashboard should be understandable without you being there to explain it. Use titles that are **conclusions**, not just descriptions (e.g., instead of "Sales by Region," use "North Region Leads Sales by 15%").
 
 Ready? Let's make it sparkle! ✨
+
