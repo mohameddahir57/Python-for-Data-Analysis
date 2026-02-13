@@ -6,7 +6,7 @@ Today is about taking your analysis from "Good" to "Great." Refactoring code, en
 
 **Objective**: Re-visit one of your previous projects (Sales Analysis or EDA) and apply advanced techniques to improve its quality, readability, and depth.
 
-## 📁 Areas for Improvement
+##  Areas for Improvement
 
 ### 1. Code Quality & Readability
 - **Modularization**: Turn repetitive code blocks into functions.
@@ -26,13 +26,13 @@ Today is about taking your analysis from "Good" to "Great." Refactoring code, en
 ### 4. Statistical Testing
 - Go beyond averages—look at variance, standard deviation, and basic hypothesis testing (if you're ready).
 
-## 📊 Required Enhancements
+##  Required Enhancements
 
 - **Improve the Dashboard**: Make it more professional with custom figure sizes and clear hierarchical titles.
 - **Add Legend Logic**: Ensure legends are placed correctly and don't overlap data.
 - **Text Labels**: Use `ax.text()` to display key numbers directly on the charts.
 
-## 🔍 Step-by-Step Guide
+##  Step-by-Step Guide
 
 ### Step 1: Selection
 Pick the project you found most interesting so far (e.g., Feb 10: Sales Analysis).
@@ -46,15 +46,16 @@ Experiment with `sns.set_context("talk")` or custom rcParams to change font weig
 ### Step 4: Documentation
 Complete a professional "ReadMe" style header for the project, explaining the methodology and tools used.
 
-## ✅ Deliverables
+##  Deliverables
 
 1. **Jupyter Notebook (`Feb13_Improvements.ipynb`)**
    - A before/after comparison or an "Enhanced Version" of a previous project.
    - Clean, modular code.
    - High-impact visualizations.
 
-## 💡 Pro Tip
+##  Pro Tip
 A professional dashboard should be understandable without you being there to explain it. Use titles that are **conclusions**, not just descriptions (e.g., instead of "Sales by Region," use "North Region Leads Sales by 15%").
 
-Ready? Let's make it sparkle! ✨
+Ready? Let's make it sparkle! 
+
 
